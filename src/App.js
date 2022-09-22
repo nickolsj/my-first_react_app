@@ -2,7 +2,7 @@ import './App.css';
 import { useState } from 'react';
 
 const App = () => {
-    const [counter, setCounter] = useState(-123423);
+    const [count, setCounter] = useState(-123423);
 
       return (
         <div className="App">
